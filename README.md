@@ -1,1 +1,1 @@
-# geometry
+Basic geometry functions.
