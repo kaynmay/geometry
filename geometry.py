@@ -1,13 +1,3 @@
-#  File: geometry.py
-#  Description: Assignment 5 - Basic Geometry
-#  Student's Name: Kayla Mayberry
-#  Student's UT EID: km35829
-#  Course Name: CS 313E 
-#  Unique Number: 50597
-#
-#  Date Created: 10/15/15
-#  Date Last Modified: 10/16/15
-
 import math
 
 #function to check the equality of two floating point numbers
